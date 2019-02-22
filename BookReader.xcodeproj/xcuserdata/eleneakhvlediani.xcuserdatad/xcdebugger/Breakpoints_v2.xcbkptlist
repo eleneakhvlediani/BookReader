@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookReader/ViewControllers/BookReaderViewController.swift"
+            timestampString = "572482435.364616"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "BookReaderViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookReader.BookReaderViewController.resultLabel.getter : weak Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "BookReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleneakhvlediani/Downloads/BookReader/BookReader/ViewControllers/BookReaderViewController.swift"
+                  timestampString = "572476893.390282"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookReader.BookReaderViewController.resultLabel.setter : weak Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "BookReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleneakhvlediani/Downloads/BookReader/BookReader/ViewControllers/BookReaderViewController.swift"
+                  timestampString = "572476893.392221"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookReader.BookReaderViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; BookReader.BookReaderViewController"
+                  moduleName = "BookReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleneakhvlediani/Downloads/BookReader/BookReader/ViewControllers/BookReaderViewController.swift"
+                  timestampString = "572476893.3939019"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "179">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookReader.BookReaderViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;BookReader.BookReaderViewController&gt;"
+                  moduleName = "BookReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleneakhvlediani/Downloads/BookReader/BookReader/ViewControllers/BookReaderViewController.swift"
+                  timestampString = "572476893.395655"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookReader/ViewControllers/ChooseFileViewController.swift"
+            timestampString = "572482435.364718"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "downloadClicked(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookReader/ViewModels/ChooseFileViewModel.swift"
+            timestampString = "572482435.3651969"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "downloadFile(url:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookReader/ViewModels/ChooseFileViewModel.swift"
+            timestampString = "572482435.365265"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "load(from:to:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookReader.ChooseFileViewModel.(load in _56D46A55FA70597319DBA058300E68E3)(from: Foundation.URL, to: Foundation.URL, completionHandler: (BookReader.Result&lt;BookReader.FileReader&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BookReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleneakhvlediani/Downloads/BookReader/BookReader/ViewModels/ChooseFileViewModel.swift"
+                  timestampString = "572482118.235237"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "54">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (BookReader.Result&lt;()&gt;) -&gt; () in BookReader.ChooseFileViewModel.(load in _56D46A55FA70597319DBA058300E68E3)(from: Foundation.URL, to: Foundation.URL, completionHandler: (BookReader.Result&lt;BookReader.FileReader&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BookReader"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eleneakhvlediani/Downloads/BookReader/BookReader/ViewModels/ChooseFileViewModel.swift"
+                  timestampString = "572482118.23886"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "69">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookReader/Helpers/FileDownloader.swift"
+            timestampString = "572482435.36533"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "load(url:to:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BookReader/ViewModels/ChooseFileViewModel.swift"
+            timestampString = "572482435.365388"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "load(from:to:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
